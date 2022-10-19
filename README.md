@@ -1,22 +1,11 @@
 # devops-hongkong
 DevOps Hong Kong
 
-<a name="blank-section"></a>
-# Blank Section
+<a name="companies-devops"></a>
+# Companies with DevOps Engineering
 <details>
 <summary>Click to expand!</summary>
-
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
-1. [Link Title](https://linkurl.com/)
+Companies that have advertised DevOps roles e.g. LinkedIn, JobsDB, ATS Sites
 1. [Link Title](https://linkurl.com/)
 1. [Link Title](https://linkurl.com/)
 </details>
