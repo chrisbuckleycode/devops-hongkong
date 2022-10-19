@@ -3,9 +3,9 @@ DevOps Hong Kong
 
 <a name="companies-devops"></a>
 # Companies with DevOps Engineering
+Companies that have advertised DevOps roles e.g. LinkedIn, JobsDB, ATS Sites
 <details>
 <summary>Click to expand!</summary>
-Companies that have advertised DevOps roles e.g. LinkedIn, JobsDB, ATS Sites
 1. [Link Title](https://linkurl.com/)
 1. [Link Title](https://linkurl.com/)
 </details>
